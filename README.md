@@ -2,6 +2,14 @@
 
 Simple program to dump the full KeePass database using a master passwords. Depends on kppy[1]
 
+## Example run
+```$ python keepass-dump/keepass-dump.py Database.kdb test112
+hotmail.com
+ \_ test LNSKuSMZlhrxXYbNiGVF
+ yahoo.com
+  \_ helge CttgPk5zmX61OKefCgUG
+ ```
+
 1. https://raymontag.github.io/kppy/
 
 ## Demo
