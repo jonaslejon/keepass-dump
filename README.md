@@ -4,8 +4,12 @@ Simple program to dump the full KeePass database using a master passwords. Depen
 
 1. https://raymontag.github.io/kppy/
 
-# Demo
+## Demo
 
 View the demo video on [YouTube here](https://www.youtube.com/watch?v=27EofrWbj4w). Work sponsored by Triop AB[2]
 
 2. https://triop.se
+
+## Test
+
+[![Password Manager InSecurity: Exfiltration ](http://img.youtube.com/vi/27EofrWbj4w/0.jpg)](http://www.youtube.com/watch?v=27EofrWbj4w)
